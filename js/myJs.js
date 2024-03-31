@@ -137,7 +137,7 @@ $(document).ready(function () {
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
-          text: '${textConfig.text11}\n${textConfig.text13}\n${textConfig.text14}`,
+          text: '${textConfig.text11}\n${textConfig.text13}\n${textConfig.text14}',
           
           confirmButtonColor: "#83d0c9",
           onClose: () => {
