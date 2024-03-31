@@ -1,16 +1,18 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
+  text1: "Hé loo xin chào cậu",
+  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng đóa nhaaa.",
   text3: "Cậu yêu tớ có phải không nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text7: "Lý do cậu thích tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
+  text9: "Vì mình thích cậu vllll",
   text10: "Tớ biết mà ^^ I lớp you Tri tháo sần",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoo" + \n + "Note: Tất cả chỉ là Trôn, trôn Việt Nam by MinhLoc =]]]]" ,
+    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoo " ,
+  text13:"Note: Tất cả chỉ là Trôn, trôn Việt Nam by MinhLoc =]]]]",
+  text14:"Cre: Youtube: Kiến Không Ngủ",
   text12: "Okii lunn <3",
 };
 
@@ -136,6 +138,8 @@ $(document).ready(function () {
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
           text: textConfig.text11,
+          text: textConfig.text13,
+          text: textConfig.text14,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
             window.location = "https://www.facebook.com/minhminh24x/";
