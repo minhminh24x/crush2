@@ -141,7 +141,7 @@ $(document).ready(function () {
           
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/minhminh24x/";
+            window.location = "https://minhminh24x.github.io/hihi/";
           },
         });
       }
