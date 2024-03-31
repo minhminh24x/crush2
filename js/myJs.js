@@ -137,9 +137,8 @@ $(document).ready(function () {
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
-          text: textConfig.text11,
-          text: textConfig.text13,
-          text: textConfig.text14,
+          text: '${textConfig.text11}\n${textConfig.text13}\n${textConfig.text14}`1,
+          
           confirmButtonColor: "#83d0c9",
           onClose: () => {
             window.location = "https://www.facebook.com/minhminh24x/";
