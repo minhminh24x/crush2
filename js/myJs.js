@@ -8,11 +8,9 @@ const textConfig = {
   text7: "lí do cậu thích tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text10: "Tớ biết mà ^^ I lớp you Tri tháo sần",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo"
-    " Trôn, trôn Việt Nam bye Lê Minh Lộc =]]]]"
-  ,
+    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoo Note: Tất cả chỉ là Trôn, trôn Việt Nam by MinhLoc =]]]]" ,
   text12: "Okii lunn <3",
 };
 
@@ -140,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.facebook.com/minhminh24x/";
           },
         });
       }
