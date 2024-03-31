@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì cậu đẹp try vlllll",
   text10: "Tớ biết mà ^^ I lớp you Tri tháo sần",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoo \n Note: Tất cả chỉ là Trôn, trôn Việt Nam by MinhLoc =]]]]" ,
+    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoo" + \n + "Note: Tất cả chỉ là Trôn, trôn Việt Nam by MinhLoc =]]]]" ,
   text12: "Okii lunn <3",
 };
 
